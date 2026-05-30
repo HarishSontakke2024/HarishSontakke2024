@@ -178,10 +178,20 @@ Quality Engineering
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏅 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HarishSontakke2024&theme=onedark&no-frame=true&no-bg=true&margin-w=15" />
+
+<img src="https://img.shields.io/badge/Manual%20Testing-Expert-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Automation%20Testing-Selenium-brightgreen?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/API%20Testing-Postman-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Performance%20Testing-JMeter-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Database%20Testing-SQL-blue?style=for-the-badge"/>
+
 </p>
 
 ---
