@@ -1,7 +1,9 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:1a1b27,100:7aa2f7&text=Harish%20Sontakke&fontColor=ffffff&fontSize=45&fontAlignY=40&desc=Software%20Test%20Engineer%20|%20QA%20Enthusiast&descAlignY=60"/>
+
 <h1 align="center">Hi 👋, I'm Harish Sontakke</h1>
 
 <h3 align="center">
-Software Test Engineer | Manual Testing | Automation Testing | Quality Assurance Enthusiast
+🧪 Software Test Engineer | 🤖 Automation Tester | 🔍 Quality Assurance Enthusiast
 </h3>
 
 <p align="center">
@@ -34,6 +36,19 @@ Software Test Engineer | Manual Testing | Automation Testing | Quality Assurance
 |---------------|-------------------|
 | Risk-Based Testing | Defect Prevention |
 | Automation Where It Matters | Continuous Improvement |
+
+---
+
+## 📋 QA Dashboard
+
+| Category | Status |
+|-----------|----------|
+| Manual Testing | 🟢 Active |
+| Automation Testing | 🟢 Active |
+| API Testing | 🟢 Active |
+| Performance Testing | 🟡 Learning |
+| CI/CD Integration | 🟡 Learning |
+| Quality Engineering | 🟢 Growing |
 
 ---
 
@@ -269,3 +284,5 @@ public class Tester {
 <h3 align="center">
 ⭐ Ensuring Quality, One Test at a Time ⭐
 </h3>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:1a1b27,100:7aa2f7"/>
