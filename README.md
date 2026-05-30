@@ -1,288 +1,255 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:1a1b27,100:7aa2f7&text=Harish%20Sontakke&fontColor=ffffff&fontSize=45&fontAlignY=40&desc=Software%20Test%20Engineer%20|%20QA%20Enthusiast&descAlignY=60"/>
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Harish Sontakke</h1>
+<!-- ANIMATED HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0d1117,50:00ff88,100:0d1117&text=HARISH%20SONTAKKE&fontColor=00ff88&fontSize=50&fontAlignY=45&desc=Software%20Test%20Engineer%20%7C%20Bug%20Hunter%20%7C%20Quality%20Obsessed&descAlignY=65&descColor=7ee8a2&animation=fadeIn&stroke=00ff88&strokeWidth=1"/>
 
-<h3 align="center">
-🧪 Software Test Engineer | 🤖 Automation Tester | 🔍 Quality Assurance Enthusiast
-</h3>
+</div>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Software+Test+Engineer;Manual+Testing+%7C+Automation+Testing;Selenium+WebDriver+%7C+Postman+%7C+SQL;Performance+Testing+with+JMeter;Passionate+About+Software+Quality;Always+Learning+and+Improving" />
-</p>
+<!-- TYPING ANIMATION -->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=800&lines=%24+whoami+--+Software+Test+Engineer;%24+skills+--list+%7C+grep+%22selenium%2C+postman%2C+sql%22;%24+status%3A+actively+finding+bugs+so+you+don%27t+have+to;%24+motto%3A+%22Quality+is+never+an+accident%22;%24+git+log+--+building+scalable+test+frameworks;%24+ping+excellence+--+always+reachable" alt="Typing SVG" />
+</div>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=HarishSontakke2024&label=Profile+Views&style=for-the-badge&color=blue" />
-</p>
+<br/>
 
----
+<div align="center">
 
-## 🚀 About Me
+![Profile Views](https://komarev.com/ghpvc/?username=HarishSontakke2024&label=VISITORS&style=for-the-badge&color=00ff88&labelColor=0d1117)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/harish-sontakke)
+[![Gmail](https://img.shields.io/badge/GMAIL-Message-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:sontakkeharish03@gmail.com)
 
-🔹 Software Test Engineer passionate about delivering reliable and high-quality software.
+</div>
 
-🔹 Skilled in Manual Testing, Automation Testing, API Testing and Database Testing.
-
-🔹 Experienced with Selenium WebDriver, Postman, SQL, JMeter, Jira, Git and Java.
-
-🔹 Strong understanding of SDLC, STLC, Agile Methodologies and Defect Life Cycle.
-
-🔹 Focused on continuous learning, automation and quality engineering.
+<br/>
 
 ---
 
-## 🧠 QA Mindset
-
-| Quality First | Think Like a User |
-|---------------|-------------------|
-| Risk-Based Testing | Defect Prevention |
-| Automation Where It Matters | Continuous Improvement |
-
----
-
-## 📋 QA Dashboard
-
-| Category | Status |
-|-----------|----------|
-| Manual Testing | 🟢 Active |
-| Automation Testing | 🟢 Active |
-| API Testing | 🟢 Active |
-| Performance Testing | 🟡 Learning |
-| CI/CD Integration | 🟡 Learning |
-| Quality Engineering | 🟢 Growing |
+```bash
+╔══════════════════════════════════════════════════════════════╗
+║                    ~ SYSTEM PROFILE ~                        ║
+╠══════════════════════════════════════════════════════════════╣
+║  Name      : Harish Sontakke                                ║
+║  Role      : Software Test Engineer                         ║
+║  Specialty : Manual | Automation | API | Performance        ║
+║  Mindset   : Break it before users do 🔍                    ║
+║  Stack     : Java · Selenium · Postman · JMeter · SQL       ║
+║  Method    : Agile · SDLC · STLC · Defect Life Cycle        ║
+║  Status    : [ ████████████░░░░ ] Always Leveling Up        ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 ---
 
-## 🛠️ Testing Expertise
+## 🔄 The QA Loop I Live By
 
-### Manual Testing
-- Functional Testing
-- Regression Testing
-- Smoke Testing
-- Sanity Testing
-- Integration Testing
-- System Testing
-- User Acceptance Testing (UAT)
-- Defect Reporting & Tracking
+```
+        ┌─────────────────────────────────────────────────┐
+        │                                                 │
+   ┌────▼─────┐    ┌──────────┐    ┌──────────────────┐  │
+   │  ANALYZE │───▶│  DESIGN  │───▶│  WRITE TEST CASE │  │
+   └──────────┘    └──────────┘    └────────┬─────────┘  │
+                                            │             │
+   ┌──────────┐    ┌──────────┐    ┌────────▼─────────┐  │
+   │  REPORT  │◀───│  BUG !!  │◀───│     EXECUTE      │  │
+   └────┬─────┘    └──────────┘    └──────────────────┘  │
+        │                                                 │
+        └─────────────────── RETEST ────────────────────▶┘
+```
 
-### Automation Testing
-- Selenium WebDriver
-- TestNG
-- Data-Driven Testing
-- Hybrid Framework Concepts
-- Cross Browser Testing
+---
 
-### API Testing
-- Postman
-- REST API Testing
-- API Validation
+## 🛠️ Arsenal of Tools
 
-### Performance Testing
-- Apache JMeter
-- Load Testing
-- Stress Testing
+<div align="center">
 
-### Database Testing
-- SQL
-- Query Validation
-- Data Integrity Testing
+| 🧪 Manual Testing | ⚙️ Automation | 🌐 API Testing |
+|:---:|:---:|:---:|
+| Functional · Regression | Selenium WebDriver | Postman |
+| Smoke · Sanity · UAT | TestNG · Data-Driven | REST API Validation |
+| Integration · System | Hybrid Framework | Request/Response Checks |
+
+| 📊 Performance | 🗄️ Database | 📋 Project Management |
+|:---:|:---:|:---:|
+| Apache JMeter | SQL Queries | Jira · Bug Tracking |
+| Load & Stress Testing | Data Integrity | Agile Ceremonies |
+| Bottleneck Analysis | Query Validation | Test Plan · Strategy |
+
+</div>
 
 ---
 
 ## 💻 Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=java" />
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
-<img src="https://skillicons.dev/icons?i=mysql" />
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-E97627?style=for-the-badge&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JMeter](https://img.shields.io/badge/Apache_JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/TestNG-E97627?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
-
-</p>
+</div>
 
 ---
 
-## 📜 Certifications
+## 📊 GitHub Stats
 
-🏆 Microsoft Learn Challenge – Azure AI
+<div align="center">
 
-🏆 Tata Data Visualization
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HarishSontakke2024&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff&count_private=true"/>
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarishSontakke2024&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff"/>
 
-🏆 Software Testing & QA
+</div>
 
-🏆 Agile Methodology
+<br/>
 
----
+<div align="center">
 
-## 📚 Currently Learning
+<img src="https://nirzak-streak-stats.vercel.app?user=HarishSontakke2024&theme=merko&hide_border=true&background=0D1117&stroke=00FF88&ring=00FF88&fire=ff6b35&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ff88&sideLabels=00ff88&dates=7ee8a2"/>
 
-- Advanced Selenium Framework Design
-- API Automation Testing
-- CI/CD for Test Automation
-- Quality Engineering Best Practices
-
----
-
-## 📈 QA Growth Roadmap
-
-```text
-Manual Testing
-      │
-      ▼
-Automation Testing
-      │
-      ▼
-API Testing
-      │
-      ▼
-Performance Testing
-      │
-      ▼
-CI/CD Integration
-      │
-      ▼
-Quality Engineering
-```
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HarishSontakke2024&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HarishSontakke2024&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=HarishSontakke2024&theme=tokyonight&hide_border=true"/>
-
-</p>
+</div>
 
 ---
 
 ## 📈 Contribution Graph
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HarishSontakke2024&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HarishSontakke2024&theme=merko&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&hide_border=true&area=true&area_color=00ff8820"/>
 
-</p>
-
----
-
-## 🏅 Achievements
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Manual%20Testing-Expert-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Automation%20Testing-Selenium-brightgreen?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/API%20Testing-Postman-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Performance%20Testing-JMeter-red?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Database%20Testing-SQL-blue?style=for-the-badge"/>
-
-</p>
+</div>
 
 ---
 
-## 💡 What I Bring To QA Teams
+## 🏆 Certifications & Achievements
 
-✔ Strong Analytical Thinking
+<div align="center">
 
-✔ End-to-End Testing Approach
+| 🥇 | Certification | Issuer |
+|:---:|:---|:---|
+| 🧠 | Microsoft Learn Challenge – Azure AI | Microsoft |
+| 📊 | Tata Data Visualization | Tata Group |
+| 🧪 | Software Testing & QA | Industry Certified |
+| 🔄 | Agile Methodology | Industry Certified |
 
-✔ Defect Prevention Mindset
+</div>
 
-✔ Automation-Oriented Thinking
+<div align="center">
 
-✔ Agile Team Collaboration
+![Trophies](https://github-profile-trophy.vercel.app/?username=HarishSontakke2024&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=6)
 
-✔ Continuous Quality Improvement
-
-✔ User-Focused Testing
+</div>
 
 ---
 
-## ⚡ Fun QA Code
+## 🗺️ QA Career Roadmap
+
+```
+  [✅] Manual Testing          ██████████  MASTERED
+  [✅] Automation Testing      ████████░░  ADVANCED
+  [✅] API Testing             ███████░░░  PROFICIENT
+  [🔄] Performance Testing     █████░░░░░  IN PROGRESS
+  [🔄] CI/CD Integration       ████░░░░░░  IN PROGRESS
+  [🎯] Quality Engineering     ███░░░░░░░  BUILDING
+  [🎯] Test Architecture       ██░░░░░░░░  TARGET
+```
+
+---
+
+## 💡 What I Bring to Every QA Team
+
+```
+  ┌─────────────────────┐   ┌─────────────────────┐   ┌─────────────────────┐
+  │  🔍 Sharp Analytical │   │  🤖 Automation First │   │  🧩 End-to-End View  │
+  │     Mindset         │   │     Thinking         │   │    of Quality        │
+  └─────────────────────┘   └─────────────────────┘   └─────────────────────┘
+  ┌─────────────────────┐   ┌─────────────────────┐   ┌─────────────────────┐
+  │  🐛 Defect Prevention│   │  🤝 Agile Team Player│   │  📈 Continuous Growth│
+  │     Focus           │   │                     │   │    Mindset           │
+  └─────────────────────┘   └─────────────────────┘   └─────────────────────┘
+```
+
+---
+
+## ⚡ A Day in My Life as a QA
 
 ```java
-public class Tester {
+public class HarishSontakke implements QAEngineer {
 
-    public static void main(String[] args) {
+    private final String motto = "Break it before the user does 🔍";
 
-        while(application.isRunning()) {
+    @Override
+    public void dailyRoutine() {
+        while (true) {
+            TestCase tc = analyzeRequirements();
+            executeTests(tc);
 
-            findBug();
+            if (bugsFound()) {
+                raiseDefect(priority.CRITICAL);  // no bug goes unreported
+                collaborateWithDevs();
+                verifyFix();
+                regressionTest();               // always retest surrounding area
+            }
 
-            reportBug();
-
-            verifyFix();
-
+            improveFramework();                 // never stop automating
+            learnSomethingNew();                // never stop growing
         }
-
     }
 
+    private boolean bugsFound() {
+        return true; // there's ALWAYS something to find 😄
+    }
 }
 ```
 
 ---
 
-## 🎯 Current Focus
+## 💬 QA Philosophy
 
-🔹 Building Scalable Selenium Frameworks
+<div align="center">
 
-🔹 API Automation
+> *"Quality is not an act, it is a habit."* — Aristotle
+>
+> *"Testing leads to failure, and failure leads to understanding."* — Burt Rutan
+>
+> **My take:** *"A bug found in testing saves 10x the cost of one found in production."*
 
-🔹 Performance Engineering
-
-🔹 Test Strategy Design
-
-🔹 Quality Engineering
+</div>
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's Connect
 
-<p align="center">
+<div align="center">
 
-<a href="https://www.linkedin.com/in/harish-sontakke">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harish_Sontakke-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harish-sontakke)
+[![Gmail](https://img.shields.io/badge/Gmail-sontakkeharish03@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sontakkeharish03@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-HarishSontakke2024-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HarishSontakke2024)
 
-<a href="mailto:sontakkeharish03@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+</div>
 
-</p>
+<br/>
 
-<h3 align="center">
-⭐ Ensuring Quality, One Test at a Time ⭐
-</h3>
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:1a1b27,100:7aa2f7"/>
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════╗
+║     "Ensuring Quality, One Test at a Time" 🧪             ║
+║                                                           ║
+║   If it's broken, I'll find it.                          ║
+║   If it's fixed, I'll verify it.                         ║
+║   If it's automated, I built it.                         ║
+╚═══════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:0d1117,100:00ff88&height=120"/>
