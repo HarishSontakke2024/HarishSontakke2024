@@ -1,53 +1,72 @@
+<!-- Waving Header Animation -->
 <div align="center">
-  
-  # Hi there, I'm Harish! 👋
-  
-  <!-- Animated Typing SVG -->
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Software+Tester;Automation+Engineer;Passionate+about+Quality;Java+%7C+SQL+%7C+API+Testing" alt="Typing Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Harish!&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%"/>
+</div>
+
+<!-- Animated Typing Text -->
+<div align="center">
+  <a href="https://github.com/HarishSontakke2024">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=26&pause=1000&color=2196F3&center=true&vCenter=true&width=650&lines=Software+Quality+Assurance+Engineer;Manual+%26+Automation+Testing;Java+%7C+SQL+%7C+FireFlnk;Class+of+2025+Graduate;Breaking+Code+to+Make+It+Better" alt="Typing Animation" />
   </a>
-
-  <p><b>Ensuring flawless user experiences through rigorous manual and automated testing.</b></p>
-  
 </div>
 
----
+<!-- Animated Developer GIF & Detailed About Me -->
+<table align="center" border="0" width="100%">
+  <tr>
+    <td width="60%">
+      <h2 align="left">🔥 About Me</h2>
+      <ul>
+        <li>🎓 <b>Class of 2025</b> graduate, highly passionate about delivering bug-free, seamless software experiences.</li>
+        <li>🐞 <b>My Philosophy:</b> Quality is not an act, it is a habit. I specialize in identifying edge cases and breaking software constructively before users do.</li>
+        <li>💻 <b>Currently Mastering:</b> Building robust automation frameworks using <b>Java</b> and exploring advanced database validations with <b>SQL</b>.</li>
+        <li>🛠️ <b>Toolbox:</b> Designing test suites and automating workflows with tools like Selenium, Postman, and <b>FireFlnk</b>.</li>
+        <li>🤝 <b>Let's Collaborate:</b> Open to exciting roles in Software Testing, QA Automation, and Development.</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <!-- Animated Developer GIF -->
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Animated Developer" />
+    </td>
+  </tr>
+</table>
 
-### 🚀 About Me
+<br/>
 
-- 🐞 **Focus:** Manual Testing, Test Automation, and Quality Assurance methodologies.
-- 💻 **Tech Stack:** Currently building test frameworks using **Java** and managing test data with **SQL**.
-- 🛠️ **Tools I explore:** Selenium, Postman, FireFlnk, and various defect tracking systems.
-- 💡 **Goal:** To break software (constructively) before the users do.
-- 📫 **Reach me:** [Insert your LinkedIn URL or Email here]
+<h2 align="center">⚙️ Testing & Tech Arsenal</h2>
+<!-- Dynamic Skill Icons -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,mysql,postgres,selenium,postman,git,github,vscode,eclipse&perline=9" alt="Skills" />
+  </a>
+</p>
 
----
+<br/>
 
-### 🛠️ Tech Stack & Tools
+<h2 align="center">🏆 GitHub Analytics & Trophies</h2>
 
+<!-- Animated Trophies -->
 <div align="center">
-  
-  **Languages & Databases** <br>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=HarishSontakke2024&theme=radical&row=1&column=5&margin-w=15&margin-h=15&no-frame=true" alt="Trophies" />
+  </a>
+</div>
+<br/>
 
-  <br><br>
-  
-  **Testing & Automation** <br>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  
+<!-- Animated Stats & Top Languages Cards -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HarishSontakke2024&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarishSontakke2024&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
 </div>
 
----
+<br/>
 
-### 📊 GitHub Stats
-
+<!-- Contribution Graph (See Step 2 below to activate your personal snake!) -->
+<h2 align="center">🐍 Contribution Graph</h2>
 <div align="center">
-  <!-- Animated Stats Cards -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github.com/Platane/snk/raw/master/demo.svg" alt="Snake Animation Demo" width="800" />
+</div>
+
+<!-- Waving Footer Animation -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </div>
