@@ -60,10 +60,14 @@
 
 <br/>
 
-<!-- Contribution Graph (See Step 2 below to activate your personal snake!) -->
+<!-- Animated Contribution Snake -->
 <h2 align="center">🐍 Contribution Graph</h2>
 <div align="center">
-  <img src="https://github.com/Platane/snk/raw/master/demo.svg" alt="Snake Animation Demo" width="800" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarishSontakke2024/HarishSontakke2024/output/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HarishSontakke2024/HarishSontakke2024/output/dist/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/HarishSontakke2024/HarishSontakke2024/output/dist/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 </div>
 
 <!-- Waving Footer Animation -->
