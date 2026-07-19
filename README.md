@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
----
+
  
 ## 👾 System Profile
  
@@ -33,7 +33,6 @@
 └──────────────────────────────────────────────────────────────────┘
 ```
  
----
  
 ## 🔄 How I Work
  
@@ -49,25 +48,25 @@
           └──────────────────── RETEST & CLOSE ──────────────▶ ✅
 ```
  
----
  
 ## 🛠️ Testing Expertise
  
 <div align="center">
+  
 |  🧪 Manual Testing  |  ⚙️ Automation  |  🌐 API Testing  |
 |:---:|:---:|:---:|
 | Functional · Regression | Selenium WebDriver | Postman |
 | Smoke · Sanity · UAT | TestNG · Data-Driven | REST API Validation |
 | Integration · System | Hybrid Framework | Status & Schema Checks |
- 
+
 |  📊 Performance  |  🗄️ Database  |  📋 Management  |
 |:---:|:---:|:---:|
 | Apache JMeter | SQL Queries | Jira · Bug Tracking |
 | Load & Stress Testing | Data Integrity | Agile · Test Strategy |
 | Bottleneck Analysis | Query Validation | Test Plan Design |
- 
+
 </div>
----
+
  
 ## 💻 Tech Stack
  
@@ -83,7 +82,7 @@
   <img src="https://img.shields.io/badge/Jira-0a0f1e?style=for-the-badge&logo=jira&logoColor=0A66C2" alt="Jira" />
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-0a0f1e?style=for-the-badge&logo=intellijidea&logoColor=00cfff" alt="IntelliJ" />
 </div>
----
+
  
 ## 📊 GitHub Stats
  
@@ -96,7 +95,7 @@
 <div align="center">
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=HarishSontakke2024&hide_border=true&background=0a0f1e&stroke=00cfff&ring=00cfff&fire=00cfff&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=00cfff&sideLabels=00cfff&dates=7ecfff"/>
 </div>
----
+
  
 ## 📈 Contribution Graph
  
@@ -107,19 +106,21 @@
     <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/HarishSontakke2024/HarishSontakke2024/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </div
----
+
  
 ## 🏆 Certifications
  
 <div align="center">
+  
 |  |  Certification  |  Issuer  |
+|:---:|:---|:---|
 | 🧠 | Microsoft Learn Challenge – Azure AI | Microsoft |
 | 📊 | Tata Data Visualization | Tata Group |
 | 🧪 | Software Testing & QA | Industry Certified |
 | 🔄 | Agile Methodology | Industry Certified |
  
 </div>
----
+
  
 ## 🗺️ QA Roadmap
  
@@ -133,7 +134,6 @@
   🎯  Test Architecture    ████░░░░░░░░░░░░░░░░  TARGET
 ```
  
----
  
 ## ⚡ Daily Routine
  
@@ -166,7 +166,6 @@ public class HarishSontakke implements QAEngineer {
 }
 ```
  
----
  
 ## 💬 Philosophy
  
@@ -178,7 +177,7 @@ public class HarishSontakke implements QAEngineer {
 > **My rule:** A bug caught in testing costs 10× less than one caught in production.
  
 </div>
----
+
  
 ## 📫 Let's Connect
  
